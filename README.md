@@ -1,3 +1,3 @@
 # panda-commerce
 
-### [Live site](https://mahimalmuntashir.github.io/panda-commerce/)
+### [Live site](https://programminghero1.github.io/panda-commerce/)
